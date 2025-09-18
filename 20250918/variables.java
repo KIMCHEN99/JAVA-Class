@@ -22,5 +22,6 @@ public class variables {
         int wholeNumber = (int)pi;
         System.out.println(wholeNumber);
 
+        
     }
 }
