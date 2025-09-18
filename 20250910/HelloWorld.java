@@ -13,7 +13,6 @@ public class HelloWorld {
       System.out.println("나이: " + var2 + "살");
       byte var3 = 10;
       byte var4 = 5;
-      byte var6 = 5;  
       int var5 = var3 + var4;
       System.out.println("\n=== 간단한 계산 ===");
       System.out.println("" + var3 + " + " + var4 + " = " + var5);
