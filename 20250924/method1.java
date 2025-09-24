@@ -22,6 +22,7 @@ public class method1 {
 
     // 계산 결과를 출력하는 private 메서드
     private static void printCalculation1(int number1, int number2, int result) {
+        int result = number1 + number2;
         System.out.println("\n=== 간단한 계산 ===");
         System.out.println(number1 + " + " + number2 + " = " + result);
     }
