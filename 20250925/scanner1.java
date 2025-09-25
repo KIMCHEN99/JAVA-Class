@@ -2,6 +2,57 @@ import java.util.Scanner;
 import java.lang.Math;
 
 public class scanner1 {
+//     //public class scanner2 {
+
+//     // public static void main(String[] args) {
+
+//     //     //Scanner 객체 생성하기
+
+//     //     Scanner scanner = new Scanner(System.in);
+
+//     //     System.out.println("=== 자기소개 프로그램 ===");
+
+//     //     System.out.print("이름을 입력하세요: ");
+
+
+
+//     //     // 한 줄 전체 입력받기 (공백 포함)
+
+//     //     String name = scanner.nextLine();
+
+
+
+//     //     // 나이 입력받기
+
+//     //     System.out.print("나이를 입력하세요: ");
+
+//     //     int age = scanner.nextInt();
+
+
+
+//     //     // 키 입력받기
+
+//     //     System.out.print("키를 입력하세요: ");
+
+//     //     int height = scanner.nextInt();
+
+
+
+//     //     System.out.println("\n=== 당신의 정보 ===");
+
+//     //     System.out.println("이름: " + name);
+
+//     //     System.out.println("나이: " + age + "세");
+
+//     //     System.out.println("키: " + height + "cm");
+
+//        
+
+//     //     //Scanner 객체 닫기
+
+//     //     scanner.close();
+
+//     // }
     public static void main(String[] args) {
         // 프로그램 전체에서 사용할 Scanner 객체를 main 메소드에서 한 번만 생성합니다.
         Scanner scanner = new Scanner(System.in);
